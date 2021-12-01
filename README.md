@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, Sass, Bootstrap**
 
-- 📫 Reach me at **balenkawa6@protonmail.com**
+- 📫 Reach me at **contact@balen.dev**
 
 - ⚡ Fun fact **I am currently a student majoring in Information Technology**
 
