@@ -19,4 +19,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balen-devvv&show_icons=true&locale=en" alt="balen-devvv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balen-dev&show_icons=true&locale=en" alt="balen-dev" /></p>
