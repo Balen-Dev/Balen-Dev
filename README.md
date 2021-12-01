@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, Databases, React JS**
 
-- 👨‍💻 All of my projects are available at [balen.cloud](balen.cloud)
+- 👨‍💻 All of my projects are available at [balen.cloud](https://balen.cloud)
 
 - 💬 Ask me about **Javascript, Sass, Bootstrap**
 
