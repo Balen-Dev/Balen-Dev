@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **contact@balen.dev**
 
-- ⚡ Fun fact **I am currently a student majoring in Information Technology**
+- ⚡ Fun fact **I am currently a student majoring in Computer Software & Cybersecurity**
 
 
 <h3 align="left">Languages and Tools:</h3>
