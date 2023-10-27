@@ -4,7 +4,8 @@
 <h3 align="center">Microsoft Learn Student Ambassador & Freshmen at AUK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balen-devvv&label=Profile%20views&color=0e75b6&style=flat" alt="balen-devvv" /> </p>
-- 👨‍💻 All of my projects are available at [balen.cloud](www.balen.cloud)
+
+- 👨‍💻 All of my projects are available at [balen.cloud](http://www.balen.cloud)
 
 - 📫 Reach me at **contact@balen.dev**
 
