@@ -4,11 +4,11 @@
 <h3 align="center">Microsoft Learn Student Ambassador & Freshmen at AUK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balen-devvv&label=Profile%20views&color=0e75b6&style=flat" alt="balen-devvv" /> </p>
-- 👨‍💻 All of my projects are available at [balen.cloud](balen.cloud)
+- 👨‍💻 All of my projects are available at [balen.cloud](www.balen.cloud)
 
-- 📫 How to reach me **contact@balen.dev**
+- 📫 Reach me at **contact@balen.dev**
 
-- ⚡ Fact **I am currently studying Computer Software and Security**
+- ⚡ **I am currently studying Computer Software and Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
