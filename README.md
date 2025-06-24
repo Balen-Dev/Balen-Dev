@@ -28,3 +28,5 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=balen-dev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
+# Commit History
+![snake gif](https://github.com/balen-dev/balen-dev/blob/output/github-contribution-grid-snake-dark.svg)
