@@ -13,7 +13,5 @@
 - ⚡ **I am currently studying Computer Software and Security**
 
 
-<br /><br /><br /><br /><br /><br /><br />
-
 # :notes: Commit History
 ![snake gif](https://github.com/balen-dev/balen-dev/blob/output/github-contribution-grid-snake-dark.svg)
